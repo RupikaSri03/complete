@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/complete/static/css/main.73246f11.css",
+    "main.js": "/complete/static/js/main.f1ddc4eb.js",
+    "static/js/787.e6b7a724.chunk.js": "/complete/static/js/787.e6b7a724.chunk.js",
+    "static/media/c10.jpg": "/complete/static/media/c10.7406e865a56925e7a467.jpg",
+    "static/media/c1.jpg": "/complete/static/media/c1.e60d4994d49d3670ab4a.jpg",
+    "static/media/wae.jpg": "/complete/static/media/wae.cb4537066e9d20654a27.jpg",
+    "static/media/c3.jpg": "/complete/static/media/c3.b2e1d75a0cd548bdfad3.jpg",
+    "static/media/c7.jpg": "/complete/static/media/c7.4bd343b364810292cb27.jpg",
+    "static/media/im.jpg": "/complete/static/media/im.bdeb66610671578eec67.jpg",
+    "static/media/c16.jpg": "/complete/static/media/c16.2235726f1ad0c978b943.jpg",
+    "static/media/immg.jpg": "/complete/static/media/immg.00aa0cfde07310d30efe.jpg",
+    "static/media/c11.jpg": "/complete/static/media/c11.9d2ebc3e6ae512933e02.jpg",
+    "static/media/c13.jpg": "/complete/static/media/c13.25ced7fb4280d0c92fdb.jpg",
+    "static/media/c4.jpg": "/complete/static/media/c4.02fa7d712b789722ba8f.jpg",
+    "static/media/c8.jpg": "/complete/static/media/c8.eb4511e8697462dcf937.jpg",
+    "static/media/c12.jpg": "/complete/static/media/c12.32ccff08a47d4481b616.jpg",
+    "static/media/c6.jpg": "/complete/static/media/c6.4753eaa88b4f604e35e1.jpg",
+    "static/media/people-5.jpg": "/complete/static/media/people-5.97faa5502d7f1c6dbdfc.jpg",
+    "static/media/people-2.jpg": "/complete/static/media/people-2.f90750fce477a6bf5250.jpg",
+    "static/media/people-9.jpg": "/complete/static/media/people-9.44f0849a64b96a6a8475.jpg",
+    "static/media/people-10.jpg": "/complete/static/media/people-10.63845bdfa28515025dc1.jpg",
+    "static/media/people-7.jpg": "/complete/static/media/people-7.83080b83a33049589627.jpg",
+    "static/media/people-8.jpg": "/complete/static/media/people-8.374a96a727bacac601a9.jpg",
+    "static/media/people-3.jpg": "/complete/static/media/people-3.0418fdd4522233f76d49.jpg",
+    "index.html": "/complete/index.html",
+    "main.73246f11.css.map": "/complete/static/css/main.73246f11.css.map",
+    "main.f1ddc4eb.js.map": "/complete/static/js/main.f1ddc4eb.js.map",
+    "787.e6b7a724.chunk.js.map": "/complete/static/js/787.e6b7a724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73246f11.css",
+    "static/js/main.f1ddc4eb.js"
+  ]
+}
