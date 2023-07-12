@@ -1,0 +1,27 @@
+
+
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  #container1{
+    
+    background-image: url("./wae.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #btn{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: black;
+  }
+  .card1{
+    background-color:rgba(241, 245, 248, 0.064);
+  }

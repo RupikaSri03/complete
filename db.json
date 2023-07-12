@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 2
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 3
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 4
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Driii",
+      "Emailid": "sukkarupikasri@gmail.com",
+      "password": "Rupikasr",
+      "id": 5
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 6
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 7
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Sri",
+      "Emailid": "jkhkjjjk@gmail.com",
+      "password": "Rupikasr",
+      "id": 8
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Fnmm",
+      "Emailid": "sukkarupikasri@gmail.com",
+      "password": "Rupikasr",
+      "id": 9
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Fnmm",
+      "Emailid": "sukkarupikasri@gmail.com",
+      "password": "Rupikasr",
+      "id": 10
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Rupika",
+      "Emailid": "sukkarupikasri@gmail.com",
+      "password": "Rupikasr",
+      "id": 11
+    },
+    {
+      "FirstName": "Rupika",
+      "LastName": "Fnmm",
+      "Emailid": "sukkarupikasri@gmail.com",
+      "password": "Rupikasr",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

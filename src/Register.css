@@ -1,0 +1,43 @@
+
+#div1{
+    background: rgba(222, 219, 219, 0.274);
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+    width: 550px;
+    margin: auto;
+}
+form input{
+    
+    background: none;
+    margin: 18px auto;
+    text-align: center;
+    border: 2px solid #0e0f0f;
+    font-size: 22px;
+    border-radius: 10px;
+
+}
+
+#register1{
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    background-image: url("./immg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    
+}
+
+#error{
+    color: red;
+    font-size: 22px;
+    font-weight: 600;
+}
+#rebtn{
+    background-color: #e6edf3b2;
+    color: #0e0f0f;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 8px;
+}
